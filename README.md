@@ -6,5 +6,5 @@ IS NOT FINISHED! Simple programm for saving comments on the local database(csv f
 Запуск сайта производится следующим путём:
 1. Открыть консоль
 2. Ввести команду: 	php -S localhost:8000 -t {Путь до папки проетка}\php_csv\public
-3. Перейти по ссылке в консоли или же: http://localhost:8000?client_id=0
+3. Перейти по ссылке в консоли или же: http://localhost:8000?client_id=1
 На данный момент смена пользователя возможна через адрес, так же известно об ошибке отображения условного контента
